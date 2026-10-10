@@ -1,7 +1,4 @@
-<div align="center">
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Glendon%20Fevier%20Winata&fontSize=42&fontColor=ffffff&desc=Computer%20Science%20Student&descAlignY=68&descSize=20)
- 
-</div>
+
 ## 👋 Hi, I'm Glendon
  
 I'm a Computer Science student at **BINUS University**, Jakarta, Indonesia. I like building things that actually work, from small web apps to AI-powered tools, and I'm always learning something new along the way.
@@ -28,9 +25,7 @@ I'm currently looking for opportunities in **software engineering** and **AI eng
  
 | Project | Description |
 | --- | --- |
-| [Project name](https://github.com/glendonfevier/repo-name) | one line about what it does and what you used |
-| [Project name](https://github.com/glendonfevier/repo-name) | one line about what it does and what you used |
-| [Project name](https://github.com/glendonfevier/repo-name) | one line about what it does and what you used |
+| [HireLoop](techpi.vercel.app) | AI |
  
 ## 📊 GitHub Stats
  
@@ -42,12 +37,7 @@ I'm currently looking for opportunities in **software engineering** and **AI eng
 ## 📫 Let's Connect
  
 <p>
-  <a href="LINKEDIN_URL_DISINI">
+  <a href="https://www.linkedin.com/in/glendonfevier/">
     <img src="https://img.shields.io/badge/LinkedIn-Glendon%20Fevier%20Winata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
- 
-</div>
- 
